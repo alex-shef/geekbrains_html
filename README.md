@@ -1,1 +1,1 @@
-![site](https://github.com/[alex-shef]/[geekbrains_html]/blob/[master]/PSD%20-%202%20-20201215T142650Z-001/home-page.png?raw=true)
+![site](home-page.png)
